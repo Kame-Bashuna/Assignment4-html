@@ -1,0 +1,87 @@
+#bucket{
+    padding: 60px;
+    font-size: large;
+    margin: 0 auto;
+    font-style: normal;
+    width: 30%;
+    position: absolute;
+    height: 50%;
+    text-align: center;
+
+}
+img{
+    font-weight: bold;
+    top: 6px;
+    left: 3px;
+    height: 650px;
+    width: 90%;
+    
+}
+
+button{
+    width: 50%;
+    padding: 1px;
+    margin: auto;
+    border: solid 5px;
+    color: deepskyblue;
+    
+
+}
+
+#page{
+    display: flex;
+grid-template-columns: 40% 60%;
+    padding: 30px;
+    margin: auto;
+    border: 10%;
+    
+}
+.input{
+    border: solid 1px;
+    margin: auto;
+    border-radius: 5%;
+    width: 50%;
+    border-color: deepskyblue;
+    padding: 10px;
+    
+}
+h1{
+    font-size: 50;
+    text-decoration: deepskyblue;
+    position: absolute;
+    margin: 0%auto;
+}
+#form{
+    background-color: white;
+    text-decoration: white;
+    padding: 1px 1px;
+    border: solid 1px;
+    margin: auto;
+    font-size: large;
+    position: relative;
+}
+body{
+    overflow-x: hidden;
+}
+
+.icons{
+    width: 10%;
+    height: 24px;
+    border: solid 1px;
+    border-radius: 6px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: aqua;   
+}
+.names{
+    display: flex;
+    text-align: left;
+    width: 60%;
+}
+
+
+
+
+
+
+
